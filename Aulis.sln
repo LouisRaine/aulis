@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{3C3FA025-D584-416A-8121-8CC0511124B9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aulis", "Aulis\Aulis.vcxproj", "{71E14DC5-DF13-40C4-B0EF-E44B320627B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C3FA025-D584-416A-8121-8CC0511124B9}.Debug|x64.ActiveCfg = Debug|x64
+		{3C3FA025-D584-416A-8121-8CC0511124B9}.Debug|x64.Build.0 = Debug|x64
+		{3C3FA025-D584-416A-8121-8CC0511124B9}.Release|x64.ActiveCfg = Release|x64
+		{3C3FA025-D584-416A-8121-8CC0511124B9}.Release|x64.Build.0 = Release|x64
+		{71E14DC5-DF13-40C4-B0EF-E44B320627B0}.Debug|x64.ActiveCfg = Debug|x64
+		{71E14DC5-DF13-40C4-B0EF-E44B320627B0}.Debug|x64.Build.0 = Debug|x64
+		{71E14DC5-DF13-40C4-B0EF-E44B320627B0}.Release|x64.ActiveCfg = Release|x64
+		{71E14DC5-DF13-40C4-B0EF-E44B320627B0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EB7DC2F-2EDF-4638-B519-B11E81BB0A67}
+	EndGlobalSection
+EndGlobal
